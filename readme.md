@@ -113,6 +113,7 @@ cd cpp-html-css-renderer
 ## 📃 Created By
 - [Madhav Parajuli](http://mpparajuli.com.np)
 - [Madhu Sharma](http://madhusharma.com.np)
+- Mandip Thapa
 
 
 ## 📃 License
