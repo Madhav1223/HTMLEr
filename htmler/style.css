@@ -1,0 +1,106 @@
+.h1{
+	margin: 0 300px;
+}
+
+.h2:hover{
+	background-color: black;
+	color: white;
+}
+.child3:hover {
+	color: red;
+}
+
+.child1:hover {
+	background-color: green;
+	color: aqua;
+}
+
+.temp:hover {
+	color: blueviolet;
+}
+
+.child4:hover {
+	color: white;
+}
+
+.child5:hover {
+	color: aqua;
+}
+
+.child2:hover {
+	color: blue;
+}
+
+.parent2 {
+	color: #230F2F;
+	background-color: red;
+	/* font: Lato; */
+}
+
+
+/*
+
+.child1 {
+	font-size: 0.5rem;
+}
+
+.child2 {
+	font-size: 1rem;
+}
+
+.child3 {
+	font-size: 1.5rem;
+}
+
+
+.child4 {
+	font-size: 1.rem;
+}
+
+.child5 {
+	font-size: 0.8rem;
+}
+*/
+.parent1 {
+	border: 22px solid green;
+	color: #A0AF00;
+	background-color: black;
+}
+
+.child1
+
+/*hfdkaf*/
+	{}
+
+.parent3 {
+	color: #F00016;
+
+}
+
+/*comment*/
+.parent4 {
+	color: yellow;
+	/*comment*/
+}
+
+.hi {}
+
+.parent5 {
+	color: #0F0FA0;
+}
+
+.parent6 {
+	color: #626262;
+}
+
+.parent7 {
+	color: #1b4f5b;
+}
+
+.parent8 {
+	color: #d050ac;
+}
+
+.parent9 {
+	color: blueviolet;
+}

@@ -1,0 +1,99 @@
+.h1 {
+	margin: 0 300px;
+	color: #ffffff;
+	background-color: #2E3A59;
+	padding: 15px;
+}
+
+.h2:hover {
+	background-color: #3B3B3B;
+	color: #F0F0F0;
+}
+
+.child1:hover {
+	background-color: #1E5631;
+	color: #D4F4DD;
+}
+
+.child2:hover {
+	color: #1E90FF;
+}
+
+.child3:hover {
+	color: #FF6347;
+}
+
+.child4:hover {
+	color: #F5F5F5;
+}
+
+.child5:hover {
+	color: #7FFFD4;
+}
+
+.temp:hover {
+	color: #8A2BE2;
+}
+
+.parent1 {
+	border: 22px solid #4CAF50;
+	color: #EAF2E3;
+	background-color: #1B1B1B;
+	margin: 20px;
+	padding: 20px;
+}
+
+.parent2 {
+	color: #FFFFFF;
+	background-color: #8B0000;
+	margin: 20px;
+	padding: 20px;
+}
+
+.parent3 {
+	color: #F28C28;
+	background-color: #202020;
+	margin: 20px;
+	border: 10px solid #F28C28;
+	padding: 20px;
+}
+
+.parent4 {
+	color: #FFFF99;
+	background-color: #2F2F2F;
+	margin: 20px;
+	border: 10px solid #FFFF99;
+	padding: 20px;
+}
+
+.parent5 {
+	color: #87CEEB;
+	background-color: #0C1C2C;
+	margin: 20px;
+	border: 10px solid #87CEEB;
+	padding: 20px;
+}
+
+.parent6 {
+	color: #CCCCCC;
+	background-color: #1A1A1A;
+	margin: 20px;
+	border: 10px solid #CCCCCC;
+	padding: 20px;
+}
+
+.parent7 {
+	color: #00CED1;
+	background-color: #001F23;
+	margin: 20px;
+	border: 10px solid #00CED1;
+	padding: 20px;
+}
+
+.parent8 {
+	color: #FF69B4;
+	background-color: #2A002A;
+	margin: 20px;
+	border: 10px solid #FF69B4;
+	padding: 20px;
+}
