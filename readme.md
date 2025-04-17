@@ -56,13 +56,14 @@ cd cpp-html-css-renderer
      - Project Properties > Linker > Additional Dependencies
 4. Build and Run.
 
-> Make sure the sample HTML (`sample.html`) and CSS (`style.css`) files are in the correct directory.
+> Make sure the sample HTML (`index.html`) and CSS (`style.css`) files are in the correct directory.
 
 ---
 
 ## 🖼 Rendering Previews
 
 ### ✔ Browser View
+![Browser](https://github.com/user-attachments/assets/1e6c351e-14dc-4815-8351-aa80f718dce6)
 
 
 
