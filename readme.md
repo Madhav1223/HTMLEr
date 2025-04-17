@@ -60,39 +60,15 @@ cd cpp-html-css-renderer
 
 ---
 
-## 💡 Example Code Parsed
-
-### HTML
-```html
-<div class="parent1">
-    <h2 class="h1">Introduction to OOP</h2>
-    <div class="child1">OOP is based on the concept of objects.</div>
-</div>
-```
-
-### CSS
-```css
-.h1 {
-    margin: 0 300px;
-}
-
-.child1:hover {
-    background-color: green;
-    color: aqua;
-}
-```
-
----
-
 ## 🖼 Rendering Previews
 
 ### ✔ Browser View
-<!-- Insert screenshot here -->
-`[Insert Screenshot of Rendering in Web Browser]`
 
-### ✔ C++ Renderer Output
-<!-- Insert screenshot here -->
-`[Insert Screenshot of Rendering in This Application]`
+
+
+### ✔ HTMLer Output
+![HTMlLer](https://github.com/user-attachments/assets/cd5f42ce-998d-4ea9-bbd4-dbc3245714ee)
+
 
 ---
 
@@ -133,6 +109,10 @@ cd cpp-html-css-renderer
 - Improve code organization and architecture for interpreters
 
 ---
+## 📃 Created By
+- [Madhav Parajuli](http://mpparajuli.com.np)
+- [Madhu Sharma](http://madhusharma.com.np)
+
 
 ## 📃 License
 
